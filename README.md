@@ -10,7 +10,7 @@ The BCG Crash Analytics Project leverages Apache Spark to process and analyze la
 
 ## Project Structure:
 
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/79dca2ef-fe1e-45d2-84b7-4d62285d8032)
 
 
 
