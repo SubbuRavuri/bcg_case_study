@@ -1,0 +1,9 @@
+{
+    "endorse": "data/Endorse_use.csv",
+    "charges": "data/Charges_use.csv",
+    "damages": "data/Damages_use.csv",
+    "primary_person": "data/Primary_Person_use.csv",
+    "restrict_use": "data/Restrict_use.csv",
+    "units": "data/Units_use.csv"
+  }
+  

@@ -1,0 +1,14 @@
+{
+    "outputs": {
+        "analytics_1": "output/analytics_1/male_killed_crashes_count.txt",
+        "analytics_2": "output/analytics_2/two_wheelers_count.txt",
+        "analytics_3": "output/analytics_3/top_5_vehicle_makes.csv",
+        "analytics_4": "output/analytics_4/valid_license_hit_and_run_count.txt",
+        "analytics_5": "output/analytics_5/state_highest_no_female_accidents.txt",
+        "analytics_6": "output/analytics_6/top_3rd_to_5th_vehicle_makes.txt",
+        "analytics_7": "output/analytics_7/top_ethnic_user_group.csv",
+        "analytics_8": "output/analytics_8/top_5_zip_codes_alcohol.csv",
+        "analytics_9": "output/analytics_9/no_damage_high_damage_level_count.txt",
+        "analytics_10": "output/analytics_10/top_5_vehicle_makes_speeding.csv"
+    }
+}
