@@ -26,9 +26,9 @@ BCG-analysis/
 │   ├── analytics_8.py
 │   ├── analytics_9.py
 │   └── analytics_10.py
-├──utils
-│    ├──data_loader.py
-│    ├──writer.py
+├── utils/
+│   ├── data_loader.py
+│   ├── writer.py
 ├── main.py
 ├── README.md
 └── output/
